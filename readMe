@@ -1,0 +1,5 @@
+	- Allure report -> test/target/site/allure-maven-plugin/index.html
+	- Needs set the path for geckodriver in the ApplicationManager.java -> string №47 
+	
+	
+	
